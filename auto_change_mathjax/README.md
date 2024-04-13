@@ -1,5 +1,5 @@
 ### 说明
-说来话长，此脚本来自[#转换脚本](http://blog.xandery.top/archives/78cbabaa.html#%E8%BD%AC%E6%8D%A2%E8%84%9A%E6%9C%AC)
+此脚本来自 [Hexo 数学公式支持（任意主题）](http://blog.xandery.top/archives/78cbabaa.html)
 
 简单说一下：
 Hexo 官方的数学公式渲染插件 [hexo-math](https://github.com/hexojs/hexo-math) 只支持行内公式，且使用如下包裹方式：
