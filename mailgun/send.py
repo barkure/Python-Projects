@@ -2,7 +2,7 @@ import requests
 
 API_KEY = 'YOUR_API_KEY'
 DOMAIN_NAME = 'YOUR_DOMAIN_NAME'
-FROM = 'Excited User <mailgun@YOUR_DOMAIN_NAME>''
+FROM = 'Excited User <mailgun@YOUR_DOMAIN_NAME>'
 
 def send_simple_message(receiver_email, subject, text):
 	return requests.post(
